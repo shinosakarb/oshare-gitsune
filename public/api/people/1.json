@@ -1,0 +1,1 @@
+{"data":{"id":"1","type":"people","attributes":{"name":"ruby"},"relationships":{"friends":{"data":[{"id":"2","type":"people"}]}}},"included":[{"id":"2","type":"people","attributes":{"name":"dia"},"relationships":{"friends":{"data":[{"id":"1","type":"people"}]}}}]}
